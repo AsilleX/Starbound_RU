@@ -11957,7 +11957,7 @@
           "stationvendingmachine.object.json": 2
         },
         "stationwallpanel": {
-          "stationwallpanel.object.json": 2
+          "stationwallpanel.object.json": 8
         },
         "telescope": {
           "telescope.object.json": 9
