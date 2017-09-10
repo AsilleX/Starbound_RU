@@ -12582,7 +12582,7 @@
           "shared_flametrap.object.json": 6
         },
         "wallb": {
-          "wallb.object.json": 0
+          "wallb.object.json": 5
         }
       },
       "upgrade": {
