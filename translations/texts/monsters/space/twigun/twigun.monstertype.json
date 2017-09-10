@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A mass-produced autonomous defense turret. It tries very hard not to miss."
+      "Eng": "A mass-produced autonomous defense turret. It tries very hard not to miss.",
+      "Rus": "Автономная оборонительная туррель массового производства. Она очень старается не промахнуться."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Twigun"
+      "Eng": "Twigun",
+      "Rus": "Двупушка"
     }
   }
 ]
