@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Heavy Drone"
+      "Eng": "Heavy Drone",
+      "Rus": "Тяжёлый Дрон"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The pinnacle of automated defense technology. Their onboard AI is more cheerful than you may first assume."
+      "Eng": "The pinnacle of automated defense technology. Their onboard AI is more cheerful than you may first assume.",
+      "Rus": "Вершина автоматизированных средств защиты. Их встроенный ИИ более весёлый, чем вы можете предположить."
     }
   }
 ]
