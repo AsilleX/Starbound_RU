@@ -16,7 +16,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ssswitch!"
+      "Eng": "Ssswitch!",
+      "Rus": ""
     }
   },
   {
@@ -36,7 +37,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This small switch doesn't look that powerful."
+      "Eng": "This small switch doesn't look that powerful.",
+      "Rus": "Этот переключатель не выглядит столь мощным."
     }
   }
 ]
