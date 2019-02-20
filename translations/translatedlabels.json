@@ -12610,7 +12610,7 @@
           "landmine.object.json": 2
         },
         "lightsensor": {
-          "lightsensor.object.json": 0
+          "lightsensor.object.json": 1
         },
         "liquidsensor": {
           "liquidsensor.object.json": 2

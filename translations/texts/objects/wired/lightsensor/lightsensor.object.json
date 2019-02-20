@@ -8,7 +8,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Activates the bottom node in dim light and the top node in bright light."
+      "Eng": "Activates the bottom node in dim light and the top node in bright light.",
+      "Rus": ""
     }
   },
   {
@@ -19,7 +20,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Activatesss the bottom node in dim light and the top node in bright light."
+      "Eng": "Activatesss the bottom node in dim light and the top node in bright light.",
+      "Rus": ""
     }
   },
   {
@@ -30,7 +32,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Light Sensor"
+      "Eng": "Light Sensor",
+      "Rus": "Световой датчик"
     }
   }
 ]
